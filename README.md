@@ -17,8 +17,8 @@ Given the effectiveness of Facebook and Google Ads in catching up with DV360 in 
 2. Focus on High-Engagement Tags and Keywords:\
 Tags like #The X Factor - Fashion for the Fearless and keywords like trendy jewelry have proven effective. The campaign can be further focused on similar themes, such as "fearless," "bold," and current fashion trends, to sustain and enhance engagement. A/B testing with new variations of themes and keywords is advised to see if similar results can be achieved.
 3. Regularly Monitor Platform Performance:\
-The trend where DV360 initially dominated in impressions but was later caught up by other platforms underscores the importance of regularly assessing platform performance. By adjusting budget and targeting strategies based on platform performance, the campaign can more effectively reach relevant audiences without incurring excessive costs.\
-4. Segment Audience Based on Campaign Performance:
+The trend where DV360 initially dominated in impressions but was later caught up by other platforms underscores the importance of regularly assessing platform performance. By adjusting budget and targeting strategies based on platform performance, the campaign can more effectively reach relevant audiences without incurring excessive costs.
+4. Segment Audience Based on Campaign Performance:\
 With the substantial increase in impressions in July, there is an opportunity to further segment the audience. Identify high-engagement audience segments and tailor content to resonate specifically with them. This approach can increase campaign effectiveness and reduce spending on low-engagement segments.
 
 ### Summary
