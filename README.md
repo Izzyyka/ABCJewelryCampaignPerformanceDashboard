@@ -4,5 +4,5 @@ Dashboard: The dashboard is available [here](https://public.tableau.com/app/prof
 
 ## Dashboard Overview
 ![OverveiwImage](BreadcrumbsABCJewelryCampaignPerformanceDashboard
-/)
+/Overview Dashboard for July.jpg)
 
